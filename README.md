@@ -1,1 +1,11 @@
 # Block Foundation Bibliography
+
+The Block Foundation, an organization dedicated to reshaping architectural practice and housing systems through the innovative use of blockchain technology, has generated a robust body of work, theoretical discussions, practical explorations, and critical analyses. Our endeavor to create an equilibrium in the real estate market and foster innovative architectural solutions has sparked a diverse range of academic, technical, and professional publications.
+
+This reference bibliography serves as a curated list of key texts and resources that have informed our work and continues to guide our approach. The selection includes seminal writings on blockchain technology, architectural theory and practice, sustainable urban development, digital economies, and decentralized market designs. It also encompasses studies on the intersection of these areas, highlighting the multidisciplinary and integrative nature of our work at the Block Foundation.
+
+The bibliography is organized by topic, facilitating easy access to resources in specific areas of interest. Each entry provides a brief annotation, summarizing the main arguments, methods, and contributions of the work. This resource is aimed to be of value to a broad range of readers: from architects, urban planners, and blockchain developers, to policy makers, investors, and anyone interested in the innovative intersections of architecture, housing systems, and digital technologies.
+
+As our work continues to evolve, so will this bibliography, reflecting our commitment to remain at the forefront of thought and practice in these rapidly changing fields. This collection is not merely a reflection of the past; it is a living document, a tool for critical engagement, and a launchpad for future explorations.
+
+The Block Foundation believes in open dialogue, collaboration, and the sharing of knowledge. We welcome suggestions for additional resources and invite ongoing conversation about the ideas and issues these works present. We hope this bibliography serves as a useful point of departure for these vital discussions.
