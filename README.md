@@ -1,4 +1,10 @@
-# Block Foundation Bibliography
+<div>
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <h1 align="left">Block Foundation Bibliography</h1>
+    <h3 align="left">Research References</h3>
+</div>
+<br>
+---
 
 The Block Foundation, an organization dedicated to reshaping architectural practice and housing systems through the innovative use of blockchain technology, has generated a robust body of work, theoretical discussions, practical explorations, and critical analyses. Our endeavor to create an equilibrium in the real estate market and foster innovative architectural solutions has sparked a diverse range of academic, technical, and professional publications.
 
