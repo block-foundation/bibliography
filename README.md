@@ -4,6 +4,7 @@
     <h3 align="left">Research References</h3>
 </div>
 <br>
+
 ---
 
 The Block Foundation, an organization dedicated to reshaping architectural practice and housing systems through the innovative use of blockchain technology, has generated a robust body of work, theoretical discussions, practical explorations, and critical analyses. Our endeavor to create an equilibrium in the real estate market and foster innovative architectural solutions has sparked a diverse range of academic, technical, and professional publications.
@@ -15,3 +16,7 @@ The bibliography is organized by topic, facilitating easy access to resources in
 As our work continues to evolve, so will this bibliography, reflecting our commitment to remain at the forefront of thought and practice in these rapidly changing fields. This collection is not merely a reflection of the past; it is a living document, a tool for critical engagement, and a launchpad for future explorations.
 
 The Block Foundation believes in open dialogue, collaboration, and the sharing of knowledge. We welcome suggestions for additional resources and invite ongoing conversation about the ideas and issues these works present. We hope this bibliography serves as a useful point of departure for these vital discussions.
+
+## Disclaimer
+
+**THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
