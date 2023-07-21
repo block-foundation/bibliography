@@ -16,8 +16,22 @@
 
 ---
 
+<br/>
+<div align="left">
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [About](#about)
+- [Quick Start](#quick-start)
+- [Usage](#usage)
+
+</details>
+</div>
+
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="100%" alt="Block Foundation Bibliography">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="75%" alt="Block Foundation Bibliography">
 </p>
 
 ## Introduction
