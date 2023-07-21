@@ -22,6 +22,7 @@
 
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
 
+<div height="75%" >
 <details open="open">
 <summary>Table of Contents</summary>
 
@@ -33,6 +34,7 @@
 
 </details>
 
+</div>
 </div>
 
 ---
