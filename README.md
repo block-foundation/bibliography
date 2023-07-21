@@ -30,7 +30,7 @@
 </div>
 
 
-<p align="center">
+<p align="right">
     <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="75%" alt="Block Foundation Bibliography">
 </p>
 
