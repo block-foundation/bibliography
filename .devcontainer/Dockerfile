@@ -22,11 +22,14 @@ RUN \
         biber \
         latexmk \
         procps \
-    && \
+        python3-dev \
+        python3-pip \
+        && \
     rm -rf /var/lib/apt/lists/*
 
 # generating locales
-RUN sed -i -e 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen && \
+RUN \
+    sed -i -e 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen && \
     dpkg-reconfigure --frontend=noninteractive locales && \
     update-locale LANG=en_US.UTF-8
 
@@ -36,5 +39,9 @@ ENV \
     LC_ALL=en_US.UTF-8
 
 # installing cpanm & missing latexindent dependencies
-RUN curl -L http://cpanmin.us | perl - --self-upgrade && \
+RUN \
+    curl -L http://cpanmin.us | perl - --self-upgrade && \
     cpanm Log::Dispatch::File YAML::Tiny File::HomeDir
+
+RUN \
+    pip install pyzotero
