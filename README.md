@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="400" alt="Block Foundation Bibliography">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="100%" alt="Block Foundation Bibliography">
 </p>
 
 ## Introduction
@@ -35,7 +35,7 @@ The Block Foundation believes in open dialogue, collaboration, and the sharing o
 ## Topics
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="100%" height="100%" alt="Block Foundation Topics">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="75%" alt="Block Foundation Topics">
 </p>
 
 
