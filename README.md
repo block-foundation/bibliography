@@ -38,13 +38,15 @@ The Block Foundation believes in open dialogue, collaboration, and the sharing o
     <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="75%" alt="Block Foundation Topics">
 </p>
 
-## Resources
+## Academic Resources
 
-- [Zotero Group](https://www.zotero.org/groups/block)
+### Zotero Group
 
-## Citation
+The complete bibliography can be accessed via our Zotero Group: [zotero.org/groups/block](https://www.zotero.org/groups/block).
 
-### APA
+### Citation
+
+#### APA
 
 > A sample citation (APA 6th edition) might look like:  
 
@@ -66,15 +68,27 @@ year = {2023}
 }
 ```
 
-### DOI
+#### DOI
 
 Block Foundation Bibliography has a DOI:  
 
-### CITATION.cff
+#### CITATION.cff
 
 You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
 
 ## Legal
+
+### Copyright
+
+Copyright 2023, [Block Foundation Community Authors](https://github.com/block-foundation/community/blob/master/AUTHORS).
+
+### License
+
+Except as otherwise noted, the content in this repository is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
+code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
 
 ### Disclaimer
 
