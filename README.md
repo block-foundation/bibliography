@@ -17,9 +17,7 @@
 ---
 
 <br/>
-<table border="none" border-collapse="collapse">
-<tr>
-<td>
+<table border="none" border-collapse="collapse" border-color="white"> <tr> <td>
 
 
 <div>
