@@ -17,7 +17,7 @@
 ---
 
 <br/>
-<div align="left">
+<div align="left" width="25%">
 
 <details open="open">
 <summary>Table of Contents</summary>
@@ -31,7 +31,7 @@
 
 
 <p align="right">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="75%" alt="Block Foundation Bibliography">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg" width="75%" alt="Block Foundation Bibliography">
 </p>
 
 ## Introduction
