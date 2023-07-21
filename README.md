@@ -38,7 +38,28 @@ The Block Foundation believes in open dialogue, collaboration, and the sharing o
     <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="75%" alt="Block Foundation Topics">
 </p>
 
+## Resources
 
-## Disclaimer
+- [Zotero Group](https://www.zotero.org/groups/block)
+
+## Citation
+
+### APA
+
+A sample citation (APA 6th edition) might look like:  
+> Lars van Vianen, Block Foundation (2021, January 1). block-foundation/bibliography: Version v0.0.1.
+
+### DOI
+
+Block Foundation Bibliography has a DOI:  
+
+### CITATION.cff
+
+You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
+
+
+## Legal
+
+### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
