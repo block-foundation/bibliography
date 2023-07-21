@@ -8,7 +8,7 @@
 
 ---
 
-<div
+<div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Block Foundation Bibliography</h1>
     <h3 align="left">Research References</h3>
@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<img align="left" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
+<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
 
 - [Introduction](#introduction)
 - [Topics](#topics)
@@ -28,6 +28,8 @@
 
 </div>
 
+<div width="100%">
+</div>
 
 
 
