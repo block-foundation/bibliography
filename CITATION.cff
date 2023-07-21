@@ -1,19 +1,43 @@
 cff-version: 1.2.0
-title: Block Foundation History
+title: Block Foundation Bibliography
 version: 0.0.1
 date-released: 2023-01-01
+abstract: >-
+  The Block Foundation is dedicated to reshaping architectural practice and 
+  housing systems through the innovative use of blockchain technology, has 
+  generated a robust body of work, theoretical discussions, practical 
+  explorations, and critical analyses. Our endeavor to create an equilibrium 
+  in the real estate market and foster innovative architectural solutions has 
+  sparked a diverse range of academic, technical, and professional 
+  publications.
+  This reference bibliography serves as a curated list of key texts and 
+  resources that have informed our work and continues to guide our approach.
+  The selection includes seminal writings on blockchain technology,
+  architectural theory and practice, sustainable urban development, 
+  digital economies, and decentralized market designs. It also encompasses 
+  studies on the intersection of these areas, highlighting the 
+  multidisciplinary and integrative nature of our work at the Block Foundation.
+license: CC BY-SA 4.0
 url: "https://github.com/block-foundation/bibliography"
+repository-code: "https://github.com/block-foundation/bibliography"
 message: >-
   If you use Block Foundation Bibliography, please cite it using
   the metadata from this file.
+keywords: 
+  - block foundation
+  - blockchain
+  - architecture
+  - real-estate
 type: software
 authors:
-  - given-names: Lars Bastiaan
+  - 
+    given-names: Lars Bastiaan
     family-names: van Vianen
     email: lars@blockfoundation.io
     affiliation: Block Foundation
     orcid: 'https://orcid.org/0000-0002-8790-8630'
-  - given-names: Jelle David
+  - 
+    given-names: Jelle David
     family-names: Feringa
     email: jelle@blockfoundation.io
     affiliation: Block Foundation
