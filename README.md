@@ -46,8 +46,25 @@ The Block Foundation believes in open dialogue, collaboration, and the sharing o
 
 ### APA
 
-A sample citation (APA 6th edition) might look like:  
-> Lars van Vianen, Block Foundation (2021, January 1). block-foundation/bibliography: Version v0.0.1.
+> A sample citation (APA 6th edition) might look like:  
+
+``` txt
+van Vianen, L. B., & Feringa, J. D. (2023). Block Foundation Bibliography (Version 0.0.1) [Computer software]. https://github.com/block-foundation/bibliography
+```
+
+> BibTeX
+
+``` bib
+@software{van_Vianen_Block_Foundation_Bibliography_2023,
+author = {van Vianen, Lars Bastiaan and Feringa, Jelle David},
+license = {CC BY-SA 4.0},
+month = jan,
+title = {{Block Foundation Bibliography}},
+url = {https://github.com/block-foundation/bibliography},
+version = {0.0.1},
+year = {2023}
+}
+```
 
 ### DOI
 
@@ -56,7 +73,6 @@ Block Foundation Bibliography has a DOI:
 ### CITATION.cff
 
 You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
-
 
 ## Legal
 
