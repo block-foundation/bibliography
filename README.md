@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="75%" height="75%" alt="Block Foundation Bibliography">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="50%" alt="Block Foundation Bibliography">
 </p>
 
 ## Introduction
