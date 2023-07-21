@@ -24,17 +24,14 @@
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [About](#about)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
+- [Introduction](#introduction)
+- [Topics](#topics)
+- [Academic Resources](#academic-resources)
+  - [Zotero Group](#zotero-group)
+- [Legal](#legal)
 
 </details>
 </div>
-
-
-<p align="right">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg" width="75%" alt="Block Foundation Bibliography">
-</p>
 
 ## Introduction
 
