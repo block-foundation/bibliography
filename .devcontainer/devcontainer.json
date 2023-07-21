@@ -1,8 +1,11 @@
 {
     "name": "latex-env",
     "extensions": [
-        "james-yu.latex-workshop"
-    ],
+		"james-yu.latex-workshop",
+		"mathematic.vscode-latex",
+		"bnavetta.zoterolatex",
+		"ms-python.python"
+	],
     "dockerFile": "Dockerfile"
 
 } 
