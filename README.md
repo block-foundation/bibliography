@@ -16,9 +16,26 @@
 
 ---
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="100%" alt="Block Foundation Bibliography">
-</p>
+<div>
+<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
+<br>
+<details open="open">
+<summary>Table of Contents</summary>
+  
+- [Introduction](#introduction)
+- [Topics](#topics)
+- [Academic Resources](#academic-resources)
+  - [Zotero Group](#zotero-group)
+  - [Citation](#citation)
+- [Legal](#legal)
+  - [Copyright](#copyright)
+  - [License](#license)
+  - [Disclaimer](#disclaimer)
+
+</details>
+</div>
+<br clear="both"/>
+
 
 ## Introduction
 
