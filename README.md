@@ -16,6 +16,9 @@
 
 ---
 
+
+
+<p align="center">
 <div align="center">
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
 
@@ -28,9 +31,6 @@
 </div>
 
 <div width="100%">&nbsp</div>
-
-<p>
-
 </p>
 
 
