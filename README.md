@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="100%" height="100%" alt="Block Foundation Bibliography">
 </p>
 
 ## Introduction
@@ -31,6 +31,13 @@ The bibliography is organized by topic, facilitating easy access to resources in
 As our work continues to evolve, so will this bibliography, reflecting our commitment to remain at the forefront of thought and practice in these rapidly changing fields. This collection is not merely a reflection of the past; it is a living document, a tool for critical engagement, and a launchpad for future explorations.
 
 The Block Foundation believes in open dialogue, collaboration, and the sharing of knowledge. We welcome suggestions for additional resources and invite ongoing conversation about the ideas and issues these works present. We hope this bibliography serves as a useful point of departure for these vital discussions.
+
+## Topics
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="100%" height="100%" alt="Block Foundation Topics">
+</p>
+
 
 ## Disclaimer
 
