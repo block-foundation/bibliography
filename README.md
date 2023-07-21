@@ -16,17 +16,9 @@
 
 ---
 
-<br/>
-<table border="none" border-collapse="collapse" border-color="white" border="0px solid white"> <tr> <td>
-
 
 <div>
-
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
-
-<div height="75%" >
-<details open="open">
-<summary>Table of Contents</summary>
 
 - [Introduction](#introduction)
 - [Topics](#topics)
@@ -34,15 +26,9 @@
   - [Zotero Group](#zotero-group)
 - [Legal](#legal)
 
-</details>
-
-</div>
 </div>
 
-</td>
-</tr>
-<tr>
-</table>
+
 
 
 
