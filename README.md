@@ -26,7 +26,11 @@
 - [Topics](#topics)
 - [Academic Resources](#academic-resources)
   - [Zotero Group](#zotero-group)
+  - [Citation](#citation)
 - [Legal](#legal)
+  - [Copyright](#copyright)
+  - [License](#license)
+  - [Disclaimer](#disclaimer)
 
 </details>
 </div>
