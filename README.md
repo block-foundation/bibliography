@@ -17,6 +17,7 @@
 ---
 
 <br/>
+
 <div>
 
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
@@ -31,7 +32,10 @@
 - [Legal](#legal)
 
 </details>
+
 </div>
+
+---
 
 ## Introduction
 
