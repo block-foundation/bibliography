@@ -16,7 +16,13 @@
 
 ---
 
-The Block Foundation, an organization dedicated to reshaping architectural practice and housing systems through the innovative use of blockchain technology, has generated a robust body of work, theoretical discussions, practical explorations, and critical analyses. Our endeavor to create an equilibrium in the real estate market and foster innovative architectural solutions has sparked a diverse range of academic, technical, and professional publications.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"width="100%" height="100%" alt="Form Follows Finance">
+</p>
+
+## Introduction
+
+The Block Foundation is dedicated to reshaping architectural practice and housing systems through the innovative use of blockchain technology, has generated a robust body of work, theoretical discussions, practical explorations, and critical analyses. Our endeavor to create an equilibrium in the real estate market and foster innovative architectural solutions has sparked a diverse range of academic, technical, and professional publications.
 
 This reference bibliography serves as a curated list of key texts and resources that have informed our work and continues to guide our approach. The selection includes seminal writings on blockchain technology, architectural theory and practice, sustainable urban development, digital economies, and decentralized market designs. It also encompasses studies on the intersection of these areas, highlighting the multidisciplinary and integrative nature of our work at the Block Foundation.
 
