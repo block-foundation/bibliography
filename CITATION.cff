@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 title: Block Foundation Bibliography
 version: WIP
 date-released: 2023-01-01
-license: CC BY-SA 4.0
+license: cc-by-sa-4.0
 url: "https://github.com/block-foundation/bibliography"
 repository-code: "https://github.com/block-foundation/bibliography"
 keywords: 
