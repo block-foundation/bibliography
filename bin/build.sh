@@ -5,7 +5,7 @@
 
 
 
-# python3 ../src/zot/main.py
+# python3 ../src/zot/zot.py
 
 
 pdflatex \
