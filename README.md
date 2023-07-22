@@ -63,7 +63,7 @@ The topics covered in the Block Foundation's bibliography are as follows. Each t
 
 ``` mermaid
 mindmap
-Block Foundation
+  Block Foundation
     id[Architectural Theory and Practice]
       id[Urban Planning]
       id[Construction]
