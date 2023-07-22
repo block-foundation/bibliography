@@ -99,6 +99,29 @@ Block Foundation Bibliography has a DOI: [10.5281/zenodo.8173471](http://doi.org
 
 You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
 
+## Development
+
+## Roadmap
+
+``` mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Block Foundation Bibliography
+
+    section Automation
+        Zotero Group        :a1, 2023-06-1, 30d
+        Zotero Connection   :a2, after a1, 20d, 30d
+        Zenodo Connection   :a3, 2023-07-1, 30d
+        GitHub Action       :after a3, 20d
+
+    section Layout
+        Latex Template      :2023-07-12, 12d
+        Topic Tags          :24d
+
+    section Documentation
+        GitHub Repository   :2023-07-12, 12d
+```
+
 ## Legal
 
 ### Copyright
