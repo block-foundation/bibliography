@@ -61,15 +61,13 @@ The Block Foundation believes in open dialogue, collaboration, and the sharing o
 
 The topics covered in the Block Foundation's bibliography are as follows. Each topic encompasses a range of subtopics and areas of interest that align with the Block Foundation's focus on reshaping architectural practice and housing systems through the innovative use of blockchain technology. The bibliography includes seminal writings, theoretical discussions, practical explorations, and critical analyses related to these areas, highlighting the multidisciplinary and integrative nature of the foundation's work. It aims to provide resources for architects, urban planners, blockchain developers, policy makers, investors, and anyone interested in the innovative intersections of architecture, housing systems, and digital technologies.
 
-
-
 ``` mermaid
 mindmap
-Block foundatoin
+Block Foundation
     id(Architectural Theory and Practice)
       id(Urban Planning)
       id(Construction)
-    id((Real Estate)
+    id(Real Estate)
       id(Housing)
     id(Blockchain Technology)
       id(Smart Contracts)
@@ -81,7 +79,6 @@ Block foundatoin
     id(Law)
 
 ```
-
 
 ## Academic Resources
 
