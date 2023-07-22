@@ -68,7 +68,7 @@ mindmap
       id[Urban Planning]
       id[Construction]
     id[(Real Estate]
-      id[(Housing]
+      id[Housing]
     id[Blockchain Technology]
       id[Smart Contracts]
       id[Oracles]
