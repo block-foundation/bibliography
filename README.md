@@ -55,9 +55,32 @@ The Block Foundation believes in open dialogue, collaboration, and the sharing o
 
 ## Topics
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="75%" alt="Block Foundation Topics">
+The topics covered in the Block Foundation's bibliography are as follows. Each topic encompasses a range of subtopics and areas of interest that align with the Block Foundation's focus on reshaping architectural practice and housing systems through the innovative use of blockchain technology. The bibliography includes seminal writings, theoretical discussions, practical explorations, and critical analyses related to these areas, highlighting the multidisciplinary and integrative nature of the foundation's work. It aims to provide resources for architects, urban planners, blockchain developers, policy makers, investors, and anyone interested in the innovative intersections of architecture, housing systems, and digital technologies.
+
+
+<p align="right">
+    <img src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-topics.png"width="50%" alt="Block Foundation Topics">
 </p>
+
+``` mermaid
+mindmap
+Block foundatoin
+    id(Architectural Theory and Practice)
+      id(Urban Planning)
+      id(Construction)
+    id((Real Estate)
+      id((Housing)
+    id(Blockchain Technology)
+      id(Smart Contracts)
+      id(Oracles)
+    id(Digital Economies)
+      id((Decentralized Markets)
+      id((Network States)
+    id(Mechanism Design)
+    id(Law)
+
+```
+
 
 ## Academic Resources
 
@@ -101,7 +124,7 @@ You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
 
 ## Development
 
-## Roadmap
+### Roadmap
 
 ```mermaid
 gantt
@@ -115,7 +138,7 @@ gantt
       GitHub Action             :         des4, after des3, 5d
 
       section Layout
-      Latex Template                      :crit, done, 2014-01-06,24h
+      Latex Template                      :crit, done, 2023-07-01,14d
       Topic Tags                          :crit, done, after des1, 2d
       Create tests for parser             :crit, active, 3d
 
