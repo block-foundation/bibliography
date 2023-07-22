@@ -19,6 +19,7 @@ abstract: >-
   multidisciplinary and integrative nature of our work at the Block Foundation.
 license: cc-by-nd-4.0
 url: "https://github.com/block-foundation/bibliography"
+doi: "http://doi.org/10.5281/zenodo.8173471"
 repository-code: "https://github.com/block-foundation/bibliography"
 message: >-
   If you use Block Foundation Bibliography, please cite it using
