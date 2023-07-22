@@ -1,6 +1,7 @@
 <div align="right">
 
-  [![DOI](https://zenodo.org/badge/8173471.svg)](https://zenodo.org/badge/latestdoi/8173471)  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8173471.svg)](https://doi.org/10.5281/zenodo.8173471)
+
   [![license](https://img.shields.io/github/license/block-foundation/bibliography?color=green&label=license&style=flat-square)](LICENSE.md)
   ![stars](https://img.shields.io/github/stars/block-foundation/bibliography?color=blue&label=stars&style=flat-square)
   ![contributors](https://img.shields.io/github/contributors/block-foundation/bibliography?color=blue&label=contributors&style=flat-square)
