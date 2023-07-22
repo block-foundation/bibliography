@@ -51,7 +51,7 @@ As our work continues to evolve, so will this bibliography, reflecting our commi
 
 The Block Foundation believes in open dialogue, collaboration, and the sharing of knowledge. We welcome suggestions for additional resources and invite ongoing conversation about the ideas and issues these works present. We hope this bibliography serves as a useful point of departure for these vital discussions.
 
-**Download the [Block Foundation Bibliography<](https://github.com/block-foundation/bibliography/blob/main/dist/block_foundation-bibliography.pdf)**
+**Download the [Block Foundation Bibliography](https://raw.githubusercontent.com/block-foundation/bibliography/master/dist/block_foundation-bibliography.pdf).**
 
 ## Topics
 
