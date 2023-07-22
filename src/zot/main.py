@@ -14,6 +14,7 @@ Todo:
 
 Links:
 ------
+- https://github.com/urschrei/pyzotero
 - https://pyzotero.readthedocs.io/en/latest/#read-api-methods
 
 """
