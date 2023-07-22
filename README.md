@@ -1,8 +1,10 @@
 <div align="right">
 
+  [![DOI](https://zenodo.org/badge/8173471.svg)](https://zenodo.org/badge/latestdoi/8173471)  
   [![license](https://img.shields.io/github/license/block-foundation/bibliography?color=green&label=license&style=flat-square)](LICENSE.md)
   ![stars](https://img.shields.io/github/stars/block-foundation/bibliography?color=blue&label=stars&style=flat-square)
   ![contributors](https://img.shields.io/github/contributors/block-foundation/bibliography?color=blue&label=contributors&style=flat-square)
+
 
 </div>
 
@@ -68,7 +70,7 @@ The complete bibliography can be accessed via our Zotero Group: [zotero.org/grou
 > A sample citation (APA 6th edition) might look like:  
 
 ``` txt
-van Vianen, L. B., & Feringa, J. D. (2023). Block Foundation Bibliography (Version 0.0.1) [Computer software]. https://github.com/block-foundation/bibliography
+van Vianen, L. B., & Feringa, J. D. (2023). Block Foundation Bibliography (Version WIP) [Computer software]. https://doi.org/http://doi.org/10.5281/zenodo.8173471
 ```
 
 > BibTeX
@@ -76,18 +78,21 @@ van Vianen, L. B., & Feringa, J. D. (2023). Block Foundation Bibliography (Versi
 ``` bib
 @software{van_Vianen_Block_Foundation_Bibliography_2023,
 author = {van Vianen, Lars Bastiaan and Feringa, Jelle David},
-license = {CC BY-SA 4.0},
+doi = {http://doi.org/10.5281/zenodo.8173471},
+license = {cc-by-nd-4.0},
 month = jan,
 title = {{Block Foundation Bibliography}},
 url = {https://github.com/block-foundation/bibliography},
-version = {0.0.1},
+version = {WIP},
 year = {2023}
 }
 ```
 
+
 #### DOI
 
-Block Foundation Bibliography has a DOI:  
+Block Foundation Bibliography has a DOI: [10.5281/zenodo.8173471](http://doi.org/10.5281/zenodo.8173471)
+
 
 #### CITATION.cff
 
