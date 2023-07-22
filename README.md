@@ -38,7 +38,6 @@
 </div>
 <br clear="both"/>
 
-
 ## Introduction
 
 The Block Foundation is dedicated to reshaping architectural practice and housing systems through the innovative use of blockchain technology, has generated a robust body of work, theoretical discussions, practical explorations, and critical analyses. Our endeavor to create an equilibrium in the real estate market and foster innovative architectural solutions has sparked a diverse range of academic, technical, and professional publications.
@@ -115,7 +114,6 @@ year = {2023}
 
 Block Foundation Bibliography has a DOI: [10.5281/zenodo.8173471](http://doi.org/10.5281/zenodo.8173471)
 
-
 #### CITATION.cff
 
 You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
@@ -148,7 +146,18 @@ gantt
 
 ```
 
+### Authors
 
+This is an open-source project by the **[Block Foundation](https://www.blockfoundation.io "Block Foundation website")**.
+
+The Block Foundation mission is enabling architects to take back initiative and contribute in solving the mismatch in housing through blockchain technology. Therefore the Block Foundation seeks to unschackle the traditional constraints and construct middle ground between rent and the rigidity of traditional mortgages.
+
+website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundation website")
+
+### Contributing
+
+We'd love for you to contribute and to make **`block.txt`** even better than it is today!
+Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
 ## Legal
 
