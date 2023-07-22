@@ -73,8 +73,8 @@ mindmap
       id[Smart Contracts]
       id[Oracles]
     id[Digital Economies]
-      id[(Decentralized Markets]
-      id[(Network States]
+      id[Decentralized Markets]
+      id[Network States]
     id[Mechanism Design]
     id[Law]
 
