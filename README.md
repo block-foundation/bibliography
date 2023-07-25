@@ -118,7 +118,7 @@ Block Foundation Bibliography has a DOI: [10.5281/zenodo.8173471](http://doi.org
 
 You may also cite Block Foundation using [CITATION.cff](CITATION.cff).
 
-## Development
+## Development Resourcees
 
 ### Roadmap
 
@@ -156,14 +156,14 @@ website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundati
 
 ### Contributing
 
-We'd love for you to contribute and to make **`block.txt`** even better than it is today!
+We'd love for you to contribute and to make this project even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
-## Legal
+## Legal Information
 
 ### Copyright
 
-Copyright 2023, [Block Foundation Community Authors](https://github.com/block-foundation/community/blob/master/AUTHORS).
+Copyright &copy; 2023 [Stichting Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
 ### License
 
