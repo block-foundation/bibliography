@@ -1,5 +1,6 @@
 <div align="right">
-
+  
+  [![Open in Remote - Containers](https://img.shields.io/static/v1?label=Remote%20-%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/bibliography)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8173471.svg)](https://doi.org/10.5281/zenodo.8173471)
   [![license](https://img.shields.io/github/license/block-foundation/bibliography?color=green&label=license&style=flat-square)](LICENSE.md)
   ![stars](https://img.shields.io/github/stars/block-foundation/bibliography?color=blue&label=stars&style=flat-square)
