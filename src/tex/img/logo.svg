@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <polygon points="512 112 165.59 312 512 512 512 112" style="fill: none; stroke: #fff; stroke-linejoin: round; stroke-width: 40px;"/>
+  <polygon points="165.59 312 165.59 712 512 912 512 512 165.59 312" style="fill: none; stroke: #fff; stroke-linejoin: round; stroke-width: 40px;"/>
+  <polygon points="512 912 858.41 712 858.41 312 512 512 512 912" style="fill: none; stroke: #fff; stroke-linejoin: round; stroke-width: 40px;"/>
+  <polygon points="512 512 858.41 312 512 112 512 512" style="fill: none; stroke: #fff; stroke-linejoin: round; stroke-width: 40px;"/>
+</svg>
