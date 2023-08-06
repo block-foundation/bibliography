@@ -29,6 +29,8 @@ keywords:
   - blockchain
   - architecture
   - real-estate
+  - bibliography
+  - reference
 type: software
 authors:
   - 
@@ -36,7 +38,7 @@ authors:
     family-names: van Vianen
     email: lars@blockfoundation.io
     affiliation: Block Foundation
-    orcid: 'https://orcid.org/0000-0002-8790-8630'
+    orcid: "https://orcid.org/0000-0002-8790-8630"
   - 
     given-names: Jelle David
     family-names: Feringa
