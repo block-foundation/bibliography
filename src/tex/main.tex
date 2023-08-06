@@ -1,9 +1,17 @@
+%-----------------------------------------------------------------------
+
 \RequirePackage{snapshot}
+\RequirePackage{fontspec}
+
+
+
 \documentclass [10pt, fancyhdr, twoside] {article}
+
+
 \usepackage{float, graphicx, caption, amssymb, natbib}
 \usepackage[usenames,dvipsnames]{color}
 \usepackage{tabulary}
-\usepackage [left=2.5cm, top=2.5cm, bottom=2.5cm, right=3cm] {geometry}  %% see geometry.pdf on how to lay out the page. There's lots.
+\usepackage[left=2.5cm, top=2.5cm, bottom=2.5cm, right=3cm] {geometry}  %% see geometry.pdf on how to lay out the page. There's lots.
 \geometry{a4paper} %% or letter or a5paper or ... etc
 \usepackage{fancyhdr}
 \usepackage{xcolor}
@@ -15,8 +23,24 @@
 
 
 \usepackage{geometry}
-\usepackage{xcolor}
 \usepackage{graphicx}
+
+
+
+
+% Set Fonts
+\usepackage{fontspec}
+% \input{fonts.tex}
+
+
+%-----------------------------------------------------------------------
+% \setromanfont{Times New Roman}
+% \setsansfont{Arial}
+% \setmonofont[Color={0019D4}]{Courier New}
+%-----------------------------------------------------------------------
+
+
+
 \definecolor{titlepagecolor}{cmyk}{13,4,0,85}
 \definecolor{namecolor}{cmyk}{100,100,100,1} 
 
@@ -40,9 +64,7 @@
 
 \renewcommand{\abstractname}{Abstract Name}
 
-% Set Fonts
-% \usepackage{fontspec}
-% \input{fonts.tex} 
+
 
 % Variables
 \title{%
@@ -70,30 +92,33 @@ Block Foundation \\
 
 \begin{document}
 
-\input{chs/title}
+    %-----------------------------------------------------------------------
+    \input{chs/title}
+    %-----------------------------------------------------------------------
 
 
-\maketitle
+    \maketitle
 
-% \begin{abstract}
-% \blindtext
-% \end{abstract}
-
-
-\input{chs/introduction}
+    % \begin{abstract}
+    % \blindtext
+    % \end{abstract}
 
 
-\input{chs/mechanism_design}
+    % Chapters
+    %-----------------------------------------------------------------------
+    \input{chs/introduction}
+    \input{chs/mechanism_design}
+    \input{chs/governance/introduction}
+    %-----------------------------------------------------------------------
 
 
-\input{chs/governance/introduction}
-
-
-
-\nocite{*}
-\bibliographystyle{plain}
-% \bibliographystyle{bst/IEEEannot.bst}
-\bibliography{refs/refs}
+    % Bibliography
+    %-----------------------------------------------------------------------
+    \nocite{*}
+    \bibliographystyle{plain}
+    % \bibliographystyle{bst/IEEEannot.bst}
+    \bibliography{refs/refs}
+    %-----------------------------------------------------------------------
 
 
 
