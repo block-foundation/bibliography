@@ -1,11 +1,7 @@
 <div align="right">
-  
-  [![Open in Remote - Containers](https://img.shields.io/static/v1?label=Remote%20-%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/bibliography)
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8173471.svg)](https://doi.org/10.5281/zenodo.8173471)
-  [![license](https://img.shields.io/github/license/block-foundation/bibliography?color=green&label=license&style=flat-square)](LICENSE.md)
-  ![stars](https://img.shields.io/github/stars/block-foundation/bibliography?color=blue&label=stars&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/bibliography?color=blue&label=contributors&style=flat-square)
 
+[![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/block-foundation/bibliography/blob/main/LICENSE)
+[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/bibliography)
 
 </div>
 
@@ -19,25 +15,30 @@
 
 ---
 
-<div>
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/bibliography/master/res/block_foundation-books.jpg"  alt="Block Foundation Bibliography">
-<br>
-<details open="open">
-<summary>Table of Contents</summary>
-  
+
+### Contents
+
 - [Introduction](#introduction)
 - [Topics](#topics)
 - [Academic Resources](#academic-resources)
   - [Zotero Group](#zotero-group)
   - [Citation](#citation)
-- [Legal](#legal)
-  - [Copyright](#copyright)
-  - [License](#license)
-  - [Disclaimer](#disclaimer)
+- [Colophon](#colophon)
 
-</details>
-</div>
 <br clear="both"/>
+
+---
+
+<div align="right">
+
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/bibliography/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=bug_report.yml)
+[![Request a Feature](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/bibliography/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=feature_request.yml)
+[![Ask a Question](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/bibliography/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=question.yml)
+[![Make a Suggestion](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/bibliography/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=suggestion.yml)
+[![Start a Discussion](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/bibliography/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=discussion.yml)
+
+</div>
 
 ## Introduction
 
@@ -147,6 +148,10 @@ gantt
 
 ```
 
+---
+
+## Colophon
+
 ### Authors
 
 This is an open-source project by the **[Block Foundation](https://www.blockfoundation.io "Block Foundation website")**.
@@ -155,25 +160,27 @@ The Block Foundation mission is enabling architects to take back initiative and 
 
 website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundation website")
 
-### Contributing
+### Development Resources
+
+#### Contributing
 
 We'd love for you to contribute and to make this project even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
-## Legal Information
+### Legal Information
 
-### Copyright
+#### Copyright
 
 Copyright &copy; 2023 [Stichting Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
-### License
+#### License
 
 Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
 code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/src/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/src/LICENSE-CODE).
 
-### Disclaimer
+#### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
