@@ -1,11 +1,25 @@
 {
-  "editor.fontLigatures": true,
-  // Wordwrap
-  "editor.wordWrap": "wordWrapColumn",
-  "editor.wordWrapColumn": 80,
-  "editor.wrappingIndent": "indent",
-  // LaTeX Workshop
-  "latex-workshop.latex.outDir": "./out",
-  "latex-workshop.view.pdf.viewer": "tab",
-  "latex-workshop.synctex.afterBuild.enabled": true
+    "editor.fontLigatures": true,
+
+    // Wordwrap
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "editor.wrappingIndent": "indent",
+
+    // LaTeX Workshop
+    "latex-workshop.latex.outDir": "./out",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    // "latex-workshop.latex.recipe.default": "latexmk (xelatex)",
+    "latex-workshop.latex.tools": [{
+        "name": "latexmk",
+        "command": "latexmk",
+        "args": [
+            "-xelatex",
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "%DOC%"
+        ]
+    }],
 }
