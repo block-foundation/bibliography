@@ -15,9 +15,11 @@ RUN \
         texlive \
         texlive-latex-extra \
         texlive-latex-recommended \
+        texlive-xetex \
         texlive-bibtex-extra \
         texlive-extra-utils \
         texlive-fonts-extra \
+        chktex \
         pandoc \
         biber \
         latexmk \
