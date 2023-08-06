@@ -66,15 +66,18 @@
 
 
 
-% Variables
+% Variables | Base
 %------------------------------------------------------------------------------
 \title{%
 Block Foundation \\
   \large An Annotated Bibliography}
 \author{Lars van Vianen}
 \date{\today}
+%------------------------------------------------------------------------------
 
-\newcommand {\Note} [1] {
+
+
+\newcommand{\Note} [1] {
     \marginpar {
         \tiny {
             {\color{gray}{\thenote  \  #1}}
@@ -83,18 +86,23 @@ Block Foundation \\
     \stepcounter {note}
 }
 
-\newcommand {\MNote} [1] {
-    \marginpar {
+\newcommand{\MNote} [1] {
+    \marginpar{
         \tiny {
             {\color{gray}{#1 }}
-            }
         }
+    }
 }
 
+% Document
+%------------------------------------------------------------------------------
 \begin{document}
 
+    % Front Matter
     %--------------------------------------------------------------------------
-    \input{chs/title}
+    \input{mat/title}
+    \input{mat/colophon}
+    \input{mat/contents}
     %--------------------------------------------------------------------------
 
 
@@ -113,6 +121,7 @@ Block Foundation \\
     %--------------------------------------------------------------------------
 
 
+    
     % Bibliography
     %--------------------------------------------------------------------------
     \nocite{*}
@@ -121,6 +130,10 @@ Block Foundation \\
     \bibliography{refs/refs}
     %--------------------------------------------------------------------------
 
+    % Back Matter
+    %--------------------------------------------------------------------------
+    % \input{mat/index}
+    %--------------------------------------------------------------------------
 
 
 \end{document}
