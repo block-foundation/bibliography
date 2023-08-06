@@ -1,18 +1,27 @@
-%-----------------------------------------------------------------------
+%------------------------------------------------------------------------------
 
 \RequirePackage{snapshot}
 \RequirePackage{fontspec}
 
 
 
-\documentclass [10pt, fancyhdr, twoside] {article}
+\documentclass[10pt, fancyhdr, twoside] {article}
+
+
+
 
 
 \usepackage{float, graphicx, caption, amssymb, natbib}
 \usepackage[usenames,dvipsnames]{color}
 \usepackage{tabulary}
-\usepackage[left=2.5cm, top=2.5cm, bottom=2.5cm, right=3cm] {geometry}  %% see geometry.pdf on how to lay out the page. There's lots.
+
+% Paper Layout
+%-----------------------------------------------------------------------
+\usepackage{geometry}
 \geometry{a4paper} %% or letter or a5paper or ... etc
+\geometry{left=2.5cm, top=2.5cm, bottom=2.5cm, right=3cm}
+%-----------------------------------------------------------------------
+
 \usepackage{fancyhdr}
 \usepackage{xcolor}
 \usepackage[scaled]{helvet}
@@ -22,14 +31,13 @@
 \usepackage[yyyymmdd,hhmmss]{datetime}
 
 
-\usepackage{geometry}
 \usepackage{graphicx}
+\usepackage{fontspec}
 
 
 
 
 % Set Fonts
-\usepackage{fontspec}
 % \input{fonts.tex}
 
 
@@ -101,8 +109,8 @@ Block Foundation \\
     % Front Matter
     %--------------------------------------------------------------------------
     \input{mat/title}
-    \input{mat/colophon}
-    \input{mat/contents}
+    % \input{mat/colophon}
+    % \input{mat/contents}
     %--------------------------------------------------------------------------
 
 
@@ -133,6 +141,7 @@ Block Foundation \\
     % Back Matter
     %--------------------------------------------------------------------------
     % \input{mat/index}
+    % \input{mat/acronyms}
     %--------------------------------------------------------------------------
 
 
