@@ -53,7 +53,9 @@
   *{file}   {umsb.fd}     {2013/01/14 v3.01}
   *{-------}{Document-specific files:}{----}
   *{file}   {fc-english.def}{2016/01/12 v0.0}
-  *{file}   {chs/title}   {0000/00/00 v0.0}
+  *{file}   {mat/title}   {0000/00/00 v0.0}
+  *{file}   {mat/colophon}{0000/00/00 v0.0}
+  *{file}   {mat/contents}{0000/00/00 v0.0}
   *{file}   {chs/introduction}{0000/00/00 v0.0}
   *{file}   {chs/mechanism_design}{0000/00/00 v0.0}
   *{file}   {chs/governance/introduction}{0000/00/00 v0.0}
