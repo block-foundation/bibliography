@@ -4,26 +4,46 @@
 \RequirePackage{fontspec}
 
 
-
-\documentclass[10pt, fancyhdr, twoside] {article}
-
-
+% \documentclass[10pt, fancyhdr, twoside] {article}
+\documentclass{article}
 
 
+%------------------------------------------------------------------------------
+% Packages
+%------------------------------------------------------------------------------
+\usepackage{
+    amssymb,
+    blindtext,
+    caption,
+    fancyhdr,
+    fontspec,
+    float,
+    geometry,
+    graphicx,
+    natbib,
+    tabulary,
+    xcolor,
+}
+%------------------------------------------------------------------------------
 
-\usepackage{float, graphicx, caption, amssymb, natbib}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{tabulary}
 
+%------------------------------------------------------------------------------
 % Paper Layout
-%-----------------------------------------------------------------------
-\usepackage{geometry}
-\geometry{a4paper} %% or letter or a5paper or ... etc
-\geometry{left=2.5cm, top=2.5cm, bottom=2.5cm, right=3cm}
-%-----------------------------------------------------------------------
+%------------------------------------------------------------------------------
+\geometry{
+    a4paper,
+    total={170mm,257mm},
+    left=40mm,
+    top=40mm,
+}
+% \geometry{a4paper}
+% \geometry{left=2.5cm, top=2.5cm, bottom=2.5cm, right=3cm}
+%------------------------------------------------------------------------------
 
-\usepackage{fancyhdr}
-\usepackage{xcolor}
+
+
+\usepackage[usenames,dvipsnames]{color}
+
 \usepackage[scaled]{helvet}
 \renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
 
@@ -31,21 +51,16 @@
 \usepackage[yyyymmdd,hhmmss]{datetime}
 
 
-\usepackage{graphicx}
-\usepackage{fontspec}
-
-
-
 
 % Set Fonts
 % \input{fonts.tex}
 
 
-%-----------------------------------------------------------------------
+%------------------------------------------------------------------------------
 % \setromanfont{Times New Roman}
 % \setsansfont{Arial}
 % \setmonofont[Color={0019D4}]{Courier New}
-%-----------------------------------------------------------------------
+%------------------------------------------------------------------------------
 
 
 
@@ -65,7 +80,6 @@
 \fancyfoot[C]{\textbf{Footer}}
 \fancyfoot[RE, LO]{Created: \today\ at \currenttime}
 
-\usepackage{blindtext}
 
 \newcounter {note}
 \stepcounter{note}
