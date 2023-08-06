@@ -1,0 +1,167 @@
+%------------------------------------------------------------------------------
+
+\RequirePackage{snapshot}
+\RequirePackage{fontspec}
+
+
+% \documentclass[10pt, fancyhdr, twoside] {article}
+\documentclass{article}
+
+
+%------------------------------------------------------------------------------
+% Packages
+%------------------------------------------------------------------------------
+\usepackage{
+    amssymb,
+    blindtext,
+    caption,
+    fancyhdr,
+    fontspec,
+    float,
+    geometry,
+    graphicx,
+    natbib,
+    tabulary,
+    xcolor
+}
+%------------------------------------------------------------------------------
+
+
+%------------------------------------------------------------------------------
+% Paper Layout
+%------------------------------------------------------------------------------
+\geometry{
+    a4paper,
+    left=40mm,
+    top=40mm
+    % textwidth
+    % textheight
+    % total={170mm,257mm},
+    % left, lmargin, inner
+    % right, rmargin, outer
+    % top, tmargin
+    % bottom, bmargin
+    % headheight
+    % headsep
+    % footnotesep
+    % footskip
+    % marginparwidth, marginpar
+}
+%------------------------------------------------------------------------------
+
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[scaled]{helvet}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[left]{lineno}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+
+
+
+% Set Fonts
+% \input{fonts.tex}
+
+
+%------------------------------------------------------------------------------
+% \setromanfont{Times New Roman}
+% \setsansfont{Arial}
+% \setmonofont[Color={0019D4}]{Courier New}
+%------------------------------------------------------------------------------
+
+
+
+\definecolor{titlepagecolor}{cmyk}{13,4,0,85}
+\definecolor{namecolor}{cmyk}{100,100,100,1} 
+
+\renewcommand{\linenumberfont}{\normalfont\tiny\color{gray}}
+
+\pagestyle{fancy}
+
+\fancyhead{}
+\fancyfoot{}
+
+
+\fancyhead[RO,LE]{Block Foundation}
+\fancyfoot[RO,LE]{Page-\thepage}
+\fancyfoot[C]{\textbf{Footer}}
+\fancyfoot[RE, LO]{Created: \today\ at \currenttime}
+
+
+\newcounter {note}
+\stepcounter{note}
+
+\renewcommand{\abstractname}{Abstract Name}
+
+
+
+% Variables | Base
+%------------------------------------------------------------------------------
+\title{%
+Block Foundation \\
+  \large An Annotated Bibliography}
+\author{Lars van Vianen}
+\date{\today}
+%------------------------------------------------------------------------------
+
+
+
+\newcommand{\Note} [1] {
+    \marginpar{
+        \tiny {
+            {\color{gray}{\thenote \  #1}}
+            }
+        }
+    \stepcounter{note}
+}
+
+\newcommand{\MNote} [1] {
+    \marginpar{
+        \tiny {
+            {\color{gray}{#1 }}
+        }
+    }
+}
+
+% Document
+%------------------------------------------------------------------------------
+\begin{document}
+
+    % Front Matter
+    %--------------------------------------------------------------------------
+    \input{mat/title}
+    % \input{mat/colophon}
+    % \input{mat/contents}
+    %--------------------------------------------------------------------------
+
+
+    \maketitle
+
+    % \begin{abstract}
+    % \blindtext
+    % \end{abstract}
+
+
+    % Chapters
+    %--------------------------------------------------------------------------
+    \input{chs/introduction}
+    \input{chs/mechanism_design}
+    \input{chs/governance/introduction}
+    %--------------------------------------------------------------------------
+
+
+    
+    % Bibliography
+    %--------------------------------------------------------------------------
+    \nocite{*}
+    \bibliographystyle{plain}
+    % \bibliographystyle{bst/IEEEannot.bst}
+    \bibliography{refs/refs}
+    %--------------------------------------------------------------------------
+
+    % Back Matter
+    %--------------------------------------------------------------------------
+    % \input{mat/index}
+    % \input{mat/acronyms}
+    %--------------------------------------------------------------------------
+
+
+\end{document}
