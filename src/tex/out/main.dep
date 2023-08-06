@@ -53,5 +53,10 @@
   *{file}   {fc-english.def}{2016/01/12 v0.0}
   *{file}   {chs/title}   {0000/00/00 v0.0}
   *{file}   {chs/introduction}{0000/00/00 v0.0}
+  *{file}   {chs/mechanism_design}{0000/00/00 v0.0}
+  *{file}   {chs/governance/introduction}{0000/00/00 v0.0}
+  *{file}   {chs/governance/dao}{0000/00/00 v0.0}
+  *{file}   {chs/governance/private_cities}{0000/00/00 v0.0}
+  *{file}   {chs/governance/network_states}{0000/00/00 v0.0}
   *{file}   {main.bbl}    {0000/00/00 v0.0}
 }
