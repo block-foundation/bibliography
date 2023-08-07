@@ -1,0 +1,60 @@
+\RequireVersions{
+  *{application}{XeTeX}   {0000/00/00 v0.999993}
+  *{format} {LaTeX2e}     {2021-11-15 v2.e}
+  *{package}{snapshot}    {2020/06/17 v2.14}
+  *{package}{fontspec}    {2022/01/15 v2.8a}
+  *{package}{xparse}      {2022-01-12 v3}
+  *{package}{expl3}       {2022-01-21 v3}
+  *{file}   {l3backend-xetex.def}{2022-01-12 v3}
+  *{package}{fontspec-xetex}{2022/01/15 v2.8a}
+  *{package}{fontenc}     {0000/00/00 v0.0}
+  *{file}   {fontspec.cfg}{0000/00/00 v0.0}
+  *{class}  {article}     {2021/10/04 v1.4n}
+  *{file}   {size10.clo}  {2021/10/04 v1.4n}
+  *{package}{amssymb}     {2013/01/14 v3.01}
+  *{package}{amsfonts}    {2013/01/14 v3.01}
+  *{package}{blindtext}   {2012/01/06 v2.0}
+  *{package}{xspace}      {2014/10/28 v1.13}
+  *{package}{caption}     {2020/10/26 v3.5g}
+  *{package}{caption3}    {2020/10/21 v2.2e}
+  *{package}{keyval}      {2014/10/28 v1.15}
+  *{package}{fancyhdr}    {2021/01/28 v4.0.1}
+  *{package}{float}       {2001/11/08 v1.3d}
+  *{package}{geometry}    {2020/01/02 v5.9}
+  *{package}{ifvtex}      {2019/10/25 v1.7}
+  *{package}{iftex}       {2020/03/06 v1.0d}
+  *{package}{graphicx}    {2021/09/16 v1.2d}
+  *{package}{graphics}    {2021/03/04 v1.4d}
+  *{package}{trig}        {2021/08/11 v1.11}
+  *{file}   {graphics.cfg}{2016/06/04 v1.11}
+  *{file}   {xetex.def}   {2021/03/18 v5.0k}
+  *{package}{natbib}      {2010/09/13 v8.31b}
+  *{package}{tabulary}    {2014/06/11 v0.10}
+  *{package}{array}       {2021/10/04 v2.5f}
+  *{package}{xcolor}      {2021/10/31 v2.13}
+  *{file}   {color.cfg}   {2016/01/02 v1.6}
+  *{package}{helvet}      {2020/03/25 v9.3}
+  *{package}{lineno}      {2005/11/02 v4.41}
+  *{package}{datetime}    {2015/03/20 v2.60}
+  *{package}{etoolbox}    {2020/10/05 v2.5k}
+  *{package}{fmtcount}    {2020/01/30 v3.07}
+  *{package}{ifthen}      {2020/11/24 v1.1c}
+  *{package}{xkeyval}     {2020/11/20 v2.8}
+  *{file}   {xkeyval.tex} {2014/12/03 v2.7a}
+  *{package}{fcprefix}    {2012/09/28 v0.0}
+  *{package}{fcnumparser} {2017/06/15 v0.0}
+  *{package}{amsgen}      {1999/11/30 v2.0}
+  *{package}{datetime-defaults}{2013/09/10 v0.0}
+  *{file}   {ts1cmr.fd}   {2019/12/16 v2.5j}
+  *{file}   {umsa.fd}     {2013/01/14 v3.01}
+  *{file}   {umsb.fd}     {2013/01/14 v3.01}
+  *{-------}{Document-specific files:}{----}
+  *{file}   {fc-english.def}{2016/01/12 v0.0}
+  *{file}   {mat/title}   {0000/00/00 v0.0}
+  *{file}   {chs/introduction}{0000/00/00 v0.0}
+  *{file}   {chs/mechanism_design}{0000/00/00 v0.0}
+  *{file}   {chs/governance/introduction}{0000/00/00 v0.0}
+  *{file}   {chs/governance/dao}{0000/00/00 v0.0}
+  *{file}   {chs/governance/private_cities}{0000/00/00 v0.0}
+  *{file}   {chs/governance/network_states}{0000/00/00 v0.0}
+}
